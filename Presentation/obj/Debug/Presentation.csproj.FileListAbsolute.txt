@@ -1,0 +1,10 @@
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\bin\Debug\Presentation.exe.config
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\bin\Debug\Presentation.exe
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\bin\Debug\Presentation.pdb
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.Form1.resources
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.exe
+D:\CRUD-RUTAS-TURISTICAS\CRUD-RUTAS-TURISTICAS NCAPAS\Presentation\obj\Debug\Presentation.pdb
